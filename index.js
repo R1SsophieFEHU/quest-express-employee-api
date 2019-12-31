@@ -18,6 +18,9 @@ app.get('/api/employees', (req, res) => {
   });
 });
 
+
+app.get
+
 app.listen(port, (err) => {
   if (err) {
     throw new Error('Something bad happened...');
